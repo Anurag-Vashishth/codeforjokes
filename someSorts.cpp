@@ -20,6 +20,16 @@ Some very interesting sorting algorithms are-
         Then you traverse the second the array and delete all the muslim elements.
         After this,you push the second array back in first array.Bazinga!!!
 
-        5.)
+        5.)Therapist-sort- This is by far the best sorting algorithm ever created.
+        It works in O(-n)!!!!!!!!!!!!!!!
+        Yes,again,you heard it right!!
+        "HOW?"-you may ask.
+        Well,in this sort basically you dont sort the array ,and as it turns out
+        the array sorts you,your life,your problems,everything. The array asks you if you're mental health
+        is fine and tells you that ,"Its okay to be sad sometimes.Its okay to feel lonely or incompetent or
+        overwhelmed or insecure by this rapidly changing competetive world. YOU ARE ENOUGH."Then it iterates
+        through all your problems and solves them.This sort is very wholesome. 
+
+        
 
 */
